@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
 
-    <string name="internet_connection_not_available">No internet connection</string>
+    <string name="internet_connection_not_available">Không có kết nối internet</string>
     <string name="you_need_network_access_for_delete">You need to have network access for deleting Conversation </string>
     <string name="applozic_server_error">Oops! You caught an error, try again later</string>
     <string name="you_need_network_access_for_block_or_unblock">You need to have network access for block/unblock a user</string>
@@ -36,7 +36,7 @@
     <string name="applozic_enter_group_name">Please enter a group name to proceed..</string>
     <string name="snap_text">Oh Snap!</string>
     <string name="account_disconnection_message">We’re sorry but messaging is not \navailable at the moment.\nPlease contact support for more details</string>
-    <string name="powered_by_applozic_message">We are powered by Applozic</string>
+    <string name="powered_by_applozic_message"></string>
     <string name="failed_to_load_contact">Failed to load contacts : Response : </string>
     <string name="rupee_symbol">\u20B9</string>
     <string name="invite_message">Download this app from this link : apps.applozic.com</string>
@@ -122,7 +122,7 @@
     <string name="next">Next</string>
     <string name="done">Done</string>
     <string name="gallery">Gallery</string>
-    <string name="camera_option">Camera</string>
+    <string name="camera_option">Máy ảnh</string>
     <string name="logout">Logout</string>
     <string name="send_logs">Send Logs</string>
     <string name="log_email_subject">- Applozic android SDK text logs</string>
@@ -143,7 +143,7 @@
     <string name="ten_min">10 min</string>
     <string name="sms">SMS</string>
     <string name="mt">MT</string>
-    <string name="Delete_conversation">Delete conversation</string>
+    <string name="Delete_conversation">Xóa cuộc trò chuyện</string>
     <string name="delete_group">Delete group</string>
     <string name="exit_group">Exit group</string>
     <string name="message">Message</string>
@@ -205,7 +205,7 @@
     <string name="applozic_failed_to_load_contact">Failed to load Contact</string>
     <string name="applozic_Cropping_failed">Cropping failed</string>
     <string name="applozic_resending_attachment">Resending attachment....</string>
-    <string name="Location">Location</string>
+    <string name="Location">Địa điểm</string>
     <string name="processing_please_wait">Processing... Please wait</string>
     <string name="success">success</string>
     <string name="error">error</string>

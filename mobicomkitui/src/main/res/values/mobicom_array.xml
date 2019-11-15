@@ -83,12 +83,12 @@
     </string-array>
 
     <string-array name="multimediaOptions_without_price_text">
-        <item>Location</item>
-        <item>Camera</item>
-        <item>File</item>
-        <item>Audio</item>
-        <item>Video</item>
-        <item>Contact</item>
+        <item>Địa điểm</item>
+        <item>Máy ảnh</item>
+        <item>Tập tin</item>
+        <item>Gửi âm thanh</item>
+        <item>Gửi video</item>
+        <item>Chia sẻ danh bạ</item>
     </string-array>
 
     <string-array name="multimediaOptions_without_price_key">

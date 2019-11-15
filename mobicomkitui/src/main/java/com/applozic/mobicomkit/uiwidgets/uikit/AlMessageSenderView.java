@@ -57,7 +57,7 @@ public class AlMessageSenderView extends LinearLayout {
         attachmentButton = mainEditTextLayout.findViewById(R.id.attach_button);
         emoticonsButton = mainEditTextLayout.findViewById(R.id.emoticons_btn);
         emoticonsButton.setVisibility(GONE);
-        messageEditText.setHint("Write a message...");
+        messageEditText.setHint("Nhắn cho nhau vài dòng......");
 
         FrameLayout actionButtonLayout = view.findViewById(R.id.actionButtonLayout);
         sendMessageButton = actionButtonLayout.findViewById(R.id.conversation_send);

@@ -11,11 +11,11 @@ import java.util.Map;
 public class AlCustomizationSettings extends JsonMarker {
 
 
-    public String customMessageBackgroundColor = "#FF03A9F4";
-    private String sentMessageBackgroundColor = "#FF03A9F4";
+    public String customMessageBackgroundColor = "#49175C";
+    private String sentMessageBackgroundColor = "#49175C";
     private String receivedMessageBackgroundColor = "#FFFFFFFF";
-    private String sendButtonBackgroundColor = "#FF03A9F4";
-    private String attachmentIconsBackgroundColor = "#FF03A9F4";
+    private String sendButtonBackgroundColor = "#49175C";
+    private String attachmentIconsBackgroundColor = "#49175C";
     private String chatBackgroundColorOrDrawable;
     private String editTextBackgroundColorOrDrawable;
     private String editTextLayoutBackgroundColorOrDrawable;
@@ -36,22 +36,22 @@ public class AlCustomizationSettings extends JsonMarker {
     private String messageTimeTextColor = "#838b83";
     private String channelCustomMessageTextColor = "#666666";
 
-    private String sentMessageBorderColor = "#FF03A9F4";
+    private String sentMessageBorderColor = "#49175C";
     private String receivedMessageBorderColor = "#FFFFFFFF";
     private String channelCustomMessageBorderColor = "#cccccc";
-    private String collapsingToolbarLayoutColor = "#FF03A9F4";
-    private String groupParticipantsTextColor = "#FF03A9F4";
-    private String groupDeleteButtonBackgroundColor = "#FF03A9F4";
-    private String groupExitButtonBackgroundColor = "#FF03A9F4";
-    private String adminTextColor = "#FF03A9F4";
+    private String collapsingToolbarLayoutColor = "#49175C";
+    private String groupParticipantsTextColor = "#49175C";
+    private String groupDeleteButtonBackgroundColor = "#49175C";
+    private String groupExitButtonBackgroundColor = "#49175C";
+    private String adminTextColor = "#49175C";
     private String adminBackgroundColor = "#FFFFFFFF";
     private String attachCameraIconName = "applozic_ic_action_camera_new";
-    private String adminBorderColor = "#FF03A9F4";
+    private String adminBorderColor = "#49175C";
     private String userNotAbleToChatTextColor = "#000000";
     private String chatBackgroundImageName;
 
     private String audioPermissionNotFoundMsg;
-    private String noConversationLabel = "You have no conversations";
+    private String noConversationLabel = "Bạn chưa có cuộc trò chuyện nào.";
     private String noSearchFoundForChatMessages = "No conversation found";
     private String restrictedWordMessage = "Restricted words are not allowed";
     private boolean locationShareViaMap = true;
@@ -94,7 +94,7 @@ public class AlCustomizationSettings extends JsonMarker {
     private int totalOnlineUsers = 0;
     private String themeColorPrimary;
     private String themeColorPrimaryDark;
-    private String editTextHintText = "Write a Message..";
+    private String editTextHintText = "Nhắn cho nhau vài dòng.....";
     private boolean replyOption = true;
     private String replyMessageLayoutSentMessageBackground = "#C0C0C0";
     private String replyMessageLayoutReceivedMessageBackground = "#F5F5F5";

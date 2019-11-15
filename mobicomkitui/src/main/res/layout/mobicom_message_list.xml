@@ -273,7 +273,7 @@
             android:id="@+id/applozicLabel"
             android:layout_width="match_parent"
             android:layout_height="19dp"
-            android:background="#5B5959"
+            android:background="@color/apploizc_transparent_color"
             android:padding="1dp"
             android:gravity="center"
             android:visibility="gone"
